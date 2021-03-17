@@ -30,7 +30,7 @@
 - belongs_to :users
 - has_many :comments
 
-**※** *imageカラムはActiveStorageで実装*
+**※ imageカラムはActiveStorageで実装**
 
 ## commentsテーブル
 
